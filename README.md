@@ -5,7 +5,7 @@ Engenheiro Mecânico
 
 [Linkedin](https://www.linkedin.com/in/cristianwebber/)
 
-Informações:  
+### About me 
 [Disciplinas cursadas na Graduação](https://github.com/WebberAI/Info/blob/main/Disciplinas%20UCS.ipynb)  
 
 Projetos:
