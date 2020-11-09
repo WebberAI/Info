@@ -1,7 +1,7 @@
 # Cristian Benck Webber
 Engenheiro Mecânico
 
-(Em connstrução)
+(Em construção)
 
 [Linkedin](https://www.linkedin.com/in/cristianwebber/)
 
